@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Opdracht.AbsolutePage2">
+    <ContentPage.Content>
+        <AbsoluteLayout AbsoluteLayout.LayoutBounds="0, 0, 1, 1"  AbsoluteLayout.LayoutFlags="All" >
+            <Image Source="http://lorempixel.com/1920/1080/nature/7" Aspect="AspectFill" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"  AbsoluteLayout.LayoutFlags="All" />
+            <Label Text="Relax" FontSize="30" TextColor="White"  HorizontalOptions="Center" AbsoluteLayout.LayoutBounds="0, 20, 1, 50" AbsoluteLayout.LayoutFlags="WidthProportional"></Label>
+            <BoxView BackgroundColor="Black" Opacity="50" HeightRequest="100"  VerticalOptions="End" AbsoluteLayout.LayoutBounds="0, 1, 1, 200" AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional"></BoxView>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="End" AbsoluteLayout.LayoutBounds="0, 1, 1, 100" AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional" Padding="30">
+                <Button Text="Profile" TextColor="White" FontSize="20"></Button>
+                <Button Text="Mediate" TextColor="White" FontSize="20"></Button>
+                <Button Text="Themes" TextColor="White" FontSize="20"></Button>
+            </StackLayout>
+            
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

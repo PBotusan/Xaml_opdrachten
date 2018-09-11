@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Opdracht.ListOpdracht"
+             Padding="20">
+
+
+    <StackLayout>
+        <SearchBar Text="Search..." TextColor="Gray" HorizontalTextAlignment="Center" FontAttributes="Italic" x:Name="SearchbarList" TextChanged="SearchbarList_TextChanged" >
+            
+        </SearchBar>
+
+        <ListView x:Name="listView" SeparatorColor="Black" 
+                  ItemTapped="ListView_ItemTapped"
+                  >
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}"  Detail="{Binding Status}" TextColor="Black" DetailColor="Blue" >
+                        <TextCell.ContextActions>
+                            <MenuItem Text="Delete" Clicked="MenuItem_Delete" CommandParameter="{Binding .}" IsDestructive="True" />
+                        </TextCell.ContextActions>
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
+
+    </StackLayout>
+</ContentPage>

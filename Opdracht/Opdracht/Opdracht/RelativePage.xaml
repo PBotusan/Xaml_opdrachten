@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Opdracht.RelativePage">
+    <ContentPage.Content>
+        
+        <RelativeLayout>
+            <BoxView BackgroundColor="#F7C8DE" x:Name="banner"
+                    RelativeLayout.WidthConstraint="{ConstraintExpression
+                        Type=RelativeToParent,
+                        Property=Width,
+                        Factor=1}"
+                     
+                     RelativeLayout.HeightConstraint="{ConstraintExpression
+                        Type=RelativeToParent,
+                        Property=Height,
+                        Factor=0.3}" />
+
+            <Label Text="€ 100" TextColor="#7B0D1E" FontSize="60" FontAttributes="Bold"
+                   
+                   RelativeLayout.XConstraint="{ConstraintExpression
+                        Type=RelativeToView,
+                        ElementName=banner,
+                        Property=Height,
+                        Factor=1,
+                        Constant=-50}"
+                   
+                     RelativeLayout.YConstraint="{ConstraintExpression
+                        Type=RelativeToView,
+                        ElementName=banner,
+                        Property=Height,
+                        Factor=1,
+                        Constant=-160}">
+            </Label>
+
+            <Button Text="Add Money to Credit" TextColor="White" BackgroundColor="#3D1308" BorderRadius="15" HeightRequest="40"  FontSize="15" FontAttributes="Bold"
+                    
+                     RelativeLayout.XConstraint="{ConstraintExpression
+                        Type=RelativeToView,
+                        ElementName=banner,
+                        Property=Height,
+                        Factor=1,
+                        Constant=-50}"
+                   
+                     RelativeLayout.YConstraint="{ConstraintExpression
+                        Type=RelativeToView,
+                        ElementName=banner,
+                        Property=Height,
+                        Factor=1,
+                        Constant=-80}">
+            </Button>
+
+            <Label Text="Why pay for credit ?" FontSize="15" FontAttributes="Bold"
+                       
+                    RelativeLayout.XConstraint="{ConstraintExpression
+                    Type=RelativeToView,
+                    ElementName=banner,
+                    Property=Height,
+                    Factor=1,
+                    Constant=-50}"
+                   
+                    RelativeLayout.YConstraint="{ConstraintExpression
+                    Type=RelativeToView,
+                    ElementName=banner,
+                    Property=Height,
+                    Factor=1,
+                    Constant=30}">
+
+            </Label>
+
+            <Label Text="Sometimes this may be perfectly fine" VerticalTextAlignment="Center"
+                       
+                    RelativeLayout.XConstraint="{ConstraintExpression
+                    Type=RelativeToView,
+                    ElementName=banner,
+                    Property=Height,
+                    Factor=1,
+                    Constant=-100}"
+                   
+                    RelativeLayout.YConstraint="{ConstraintExpression
+                    Type=RelativeToView,
+                    ElementName=banner,
+                    Property=Height,
+                    Factor=1,
+                    Constant=60}">
+
+            </Label>
+            
+        </RelativeLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

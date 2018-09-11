@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Opdracht.StackPage2">
+
+    <StackLayout>
+        <Label Text="Foto Pagina"></Label>
+
+        <StackLayout HeightRequest="300" WidthRequest="300">
+            <Image Source="https://lorempixel.com/1920/1080/nature/3/"/>
+        </StackLayout>
+
+        <StackLayout >
+            <Button Text="Like" TextColor="Blue" BackgroundColor="White" ></Button>
+            <Button Text="Comment" TextColor="Blue" BackgroundColor="White"></Button>
+            <Button Text="Share" TextColor="Blue" BackgroundColor="White"></Button>
+        </StackLayout>
+        
+        <BoxView Color="#f0f0f0" HeightRequest="1"></BoxView>
+
+        <StackLayout Padding="10">
+            <Label Text="700 Likes"></Label>
+            <Label Text="This is a shot yesterday in Skanor, Sweden, When driving home, from a couple of days of work in Denmark. "></Label>
+        </StackLayout>
+        
+    </StackLayout>
+    
+</ContentPage>
