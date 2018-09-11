@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=11305383-67c9-4427-bd1a-bf60aa94c98f</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>C42ED535932F4F40B6748B013CA176C49E212A46EC223325D9017151A662BA65</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4237ed85-4fea-4182-a6f3-8b0b760e2e44_1.0.0.0_x86__dftweagwr3njr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4237ed85-4fea-4182-a6f3-8b0b760e2e44_dftweagwr3njr!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-11T14:09:21.317</Modified>
+      <Modified>2018-09-11T14:28:15.840</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Opdracht.UWP.exe">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Opdracht.UWP.exe">
       <PackagePath>entrypoint\Opdracht.UWP.exe</PackagePath>
-      <Modified>2018-09-11T14:09:19.396</Modified>
+      <Modified>2018-09-11T14:28:13.634</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Roy\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -715,160 +715,160 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2018-07-26T17:16:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.dll">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.dll">
       <PackagePath>Opdracht.dll</PackagePath>
-      <Modified>2018-09-11T14:09:14.309</Modified>
+      <Modified>2018-09-11T14:28:07.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.559</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.562</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.637</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.643</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.646</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.717</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.723</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.728</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.796</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.821</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.823</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.907</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.910</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.915</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:45.918</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:46.035</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:46.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:46.040</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:46.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-05T12:55:46.048</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-09-05T12:55:46.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Opdracht.UWP.xr.xml">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Opdracht.UWP.xr.xml">
       <PackagePath>Opdracht.UWP.xr.xml</PackagePath>
       <Modified>2018-09-05T13:00:38.721</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-09-11T14:09:19.162</Modified>
+      <Modified>2018-09-11T14:28:13.415</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-09-11T14:09:19.162</Modified>
+      <Modified>2018-09-11T14:28:13.416</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -922,14 +922,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2018-07-26T17:16:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-11T11:44:05.381</Modified>
+      <Modified>2018-09-11T14:28:14.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Core\Opdracht.UWP.exe">
+    <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Core\Opdracht.UWP.exe">
       <PackagePath>Opdracht.UWP.exe</PackagePath>
-      <Modified>2018-09-11T14:09:20.732</Modified>
+      <Modified>2018-09-11T14:28:15.189</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

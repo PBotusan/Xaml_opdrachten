@@ -23,3 +23,28 @@ C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Op
 C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.pdb
 C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListPageWithImage.xaml.g.cs
 C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListOpdracht.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.deps.json
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.dll
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.pdb
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.csprojAssemblyReference.cache
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\absolutePage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\AbsolutePage2.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\FotoOpdracht.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ImagesPage2.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListOpdracht.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListPageSearching.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListPageWithImage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListViewPage - Copy.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\RelativePage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\StackPage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\StackPage2.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\StackPage3.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\StackPage4.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.csproj.CoreCompileInputs.cache
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.AssemblyInfoInputs.cache
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.AssemblyInfo.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.dll
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.pdb

@@ -797,11 +797,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roy\\source\\repos\\Opdracht\\Opdracht\\Opdracht.iOS\\Opdracht.iOS.csproj",
+      "projectUniqueName": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\Opdracht.iOS.csproj",
       "projectName": "Opdracht.iOS",
-      "projectPath": "C:\\Users\\Roy\\source\\repos\\Opdracht\\Opdracht\\Opdracht.iOS\\Opdracht.iOS.csproj",
+      "projectPath": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\Opdracht.iOS.csproj",
       "packagesPath": "C:\\Users\\Roy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roy\\source\\repos\\Opdracht\\Opdracht\\Opdracht.iOS\\obj\\",
+      "outputPath": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -818,8 +818,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Roy\\source\\repos\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj": {
-              "projectPath": "C:\\Users\\Roy\\source\\repos\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj"
+            "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj": {
+              "projectPath": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj"
             }
           }
         }

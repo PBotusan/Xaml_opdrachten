@@ -384,11 +384,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roy\\source\\repos\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj",
+      "projectUniqueName": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj",
       "projectName": "Opdracht",
-      "projectPath": "C:\\Users\\Roy\\source\\repos\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj",
+      "projectPath": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj",
       "packagesPath": "C:\\Users\\Roy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roy\\source\\repos\\Opdracht\\Opdracht\\Opdracht\\obj\\",
+      "outputPath": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,11 +6,10 @@
 
 
     <StackLayout>
-        <SearchBar Text="Search..." TextColor="Gray" HorizontalTextAlignment="Center" FontAttributes="Italic" x:Name="SearchbarList" TextChanged="SearchbarList_TextChanged" >
-            
+        <SearchBar Text="Search..."  TextColor="Gray" HorizontalTextAlignment="Center" FontAttributes="Italic" x:Name="SearchbarList" TextChanged="SearchbarList_TextChanged" >
         </SearchBar>
-
-        <ListView x:Name="listView" SeparatorColor="Black" 
+        
+            <ListView x:Name="listView" SeparatorColor="Black" 
                   ItemTapped="ListView_ItemTapped"
                   >
 
