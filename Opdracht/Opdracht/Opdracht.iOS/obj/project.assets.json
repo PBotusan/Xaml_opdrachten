@@ -792,20 +792,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Roy\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\Opdracht.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\Opdracht.iOS.csproj",
       "projectName": "Opdracht.iOS",
-      "projectPath": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\Opdracht.iOS.csproj",
-      "packagesPath": "C:\\Users\\Roy\\.nuget\\packages\\",
-      "outputPath": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\Opdracht.iOS.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Roy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -818,8 +818,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj": {
-              "projectPath": "F:\\Documenten\\Paul Verslag\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Xaml_opdrachten\\Opdracht\\Opdracht\\Opdracht\\Opdracht.csproj"
             }
           }
         }

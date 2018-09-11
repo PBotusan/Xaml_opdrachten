@@ -48,8 +48,8 @@ namespace Opdracht
 
         private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            var locations = e.Item as Contact;
-            DisplayAlert("Tapped", "Boi", "OK");
+            var search = e.Item as Search;
+            DisplayAlert("Good choice", search.Location, "OK");
         }
 
         private void MenuItem_Delete(object sender, EventArgs e)

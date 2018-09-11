@@ -1,1 +1,1 @@
-F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Opdracht.UWP.csproj;x86
+C:\Users\User\Documents\GitHub\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Opdracht.UWP.csproj;x86

@@ -15,9 +15,9 @@
 
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding Name}"  Detail="{Binding Status}" TextColor="Black" DetailColor="Blue" >
+                    <TextCell Text="{Binding Location}"  Detail="{Binding Period}" TextColor="Black" DetailColor="Blue" >
                         <TextCell.ContextActions>
-                            <MenuItem Text="Delete" Clicked="MenuItem_Delete" CommandParameter="{Binding .}" IsDestructive="True" />
+                            <MenuItem Text="Delete" IsDestructive="true" Clicked="MenuItem_Delete" CommandParameter="{Binding .}"  />
                         </TextCell.ContextActions>
                     </TextCell>
                 </DataTemplate>
