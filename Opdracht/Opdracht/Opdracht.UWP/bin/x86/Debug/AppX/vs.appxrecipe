@@ -31,13 +31,13 @@
     <AppXManifest Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-12T12:15:55.457</Modified>
+      <Modified>2018-09-12T14:34:25.611</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Opdracht.UWP.exe">
       <PackagePath>entrypoint\Opdracht.UWP.exe</PackagePath>
-      <Modified>2018-09-12T12:15:53.583</Modified>
+      <Modified>2018-09-12T14:34:23.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Roy\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -717,7 +717,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.dll">
       <PackagePath>Opdracht.dll</PackagePath>
-      <Modified>2018-09-12T12:15:48.756</Modified>
+      <Modified>2018-09-12T14:34:18.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -864,11 +864,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-09-12T12:15:53.381</Modified>
+      <Modified>2018-09-12T14:34:23.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-09-12T12:15:53.381</Modified>
+      <Modified>2018-09-12T14:34:23.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -925,11 +925,11 @@
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-12T10:08:47.478</Modified>
+      <Modified>2018-09-12T13:17:06.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Core\Opdracht.UWP.exe">
       <PackagePath>Opdracht.UWP.exe</PackagePath>
-      <Modified>2018-09-12T12:15:54.877</Modified>
+      <Modified>2018-09-12T14:34:24.893</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

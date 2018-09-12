@@ -12,7 +12,7 @@ namespace Opdracht
         {
             InitializeComponent();
 
-            MainPage = new InstaMainPage();
+            MainPage = new TableView();
         }
 
         protected override void OnStart()
