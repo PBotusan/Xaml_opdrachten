@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <TabbedPage
             
-             xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:Opdracht"
-             x:Class="Opdracht.Tabbed_Page.MainPageTabbed">
+                xmlns="http://xamarin.com/schemas/2014/forms"
+                xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                xmlns:local="clr-namespace:Opdracht"
+                xmlns:local1="clr-namespace:Opdracht.MasterDetailPage"
+                x:Class="Opdracht.Tabbed_Page.MainPageTabbed">  
 
     <local:FotoOpdracht Title="Foto Gallerij"  />
     <local:StackPage Title="StackPage 1" />
@@ -18,26 +19,7 @@
     <local:ListPageWithImage Title="ListPage insta Clone" />
     <local:ListPageSearching Title="ListPage met Search" />
     <local:ListOpdracht Title="List Opdracht" />
+  
     
-<!--
-
-    <NavigationPage Title="Page 1">
-        <x:Arguments>
-            <ContentPage>
-                <Label Text="Content of page1" HorizontalOptions="Center" VerticalOptions="Center" />
-            </ContentPage>
-        </x:Arguments>
-    </NavigationPage>
-
-    <NavigationPage Title="Page 2">
-        <x:Arguments>
-            <ContentPage>
-                <Label Text="Content of page2" HorizontalOptions="Center" VerticalOptions="Center" />
-            </ContentPage>
-        </x:Arguments>
-    </NavigationPage>
-    
-    
--->
     
 </TabbedPage>

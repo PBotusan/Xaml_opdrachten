@@ -19,6 +19,8 @@ namespace Opdracht
 			listView.ItemsSource = GetContacts();
 		}
 
+
+
         IEnumerable<Contact> GetContacts(string searchText = null)
         {
             var contacts = new List<Contact>

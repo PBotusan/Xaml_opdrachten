@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Opdracht.InstagramClone;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -11,7 +12,7 @@ namespace Opdracht
         {
             InitializeComponent();
 
-            MainPage = new Tabbed_Page.MainPageTabbed();
+            MainPage = new InstaMainPage();
         }
 
         protected override void OnStart()

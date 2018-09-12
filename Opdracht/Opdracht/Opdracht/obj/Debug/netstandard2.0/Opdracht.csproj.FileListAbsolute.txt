@@ -48,18 +48,20 @@ C:\Users\User\Documents\GitHub\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\De
 C:\Users\User\Documents\GitHub\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\User\Documents\GitHub\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.dll
 C:\Users\User\Documents\GitHub\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.pdb
-F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.deps.json
-F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.dll
-F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.pdb
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.csprojAssemblyReference.cache
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\absolutePage.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\AbsolutePage2.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\App.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\FotoOpdracht.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\InstagramClone\ActivityFeedPage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\InstagramClone\InstaMainPage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\InstagramClone\UserProfilePage.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListOpdracht.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListPageSearching.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListPageWithImage.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ListViewPage - Copy.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\MainPageTabbed.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\MasterDetailPage\ContactDetailPage.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\MasterDetailPage\ContactsPage.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\RelativePage.xaml.g.cs
@@ -70,8 +72,10 @@ F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.csproj.CoreCompileInputs.cache
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.AssemblyInfoInputs.cache
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.AssemblyInfo.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.deps.json
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.dll
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.pdb
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\XamlC.stamp
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.dll
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.pdb
-F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Opdracht.csprojAssemblyReference.cache
-F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\MainPageTabbed.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\InstagramClone\FriendProfilePage.xaml.g.cs
