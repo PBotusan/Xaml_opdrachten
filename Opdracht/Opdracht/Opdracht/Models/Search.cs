@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Opdracht.Models
 {
-    class Search
+    public class Search
     {
         public int Id { get; set; }
         public string Location { get; set; }

@@ -11,7 +11,7 @@ namespace Opdracht
         {
             InitializeComponent();
 
-            MainPage = new ListOpdracht();
+            MainPage = new Tabbed_Page.MainPageTabbed();
         }
 
         protected override void OnStart()
