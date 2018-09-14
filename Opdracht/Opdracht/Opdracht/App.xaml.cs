@@ -19,7 +19,7 @@ namespace Opdracht
         {
             InitializeComponent();
 
-            MainPage = new DataAccesMainPage();
+            MainPage = new Sqlite.Sqlite();
         }
 
         protected override void OnStart()

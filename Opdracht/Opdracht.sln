@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht.iOS", "Opdracht\Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht.UWP", "Opdracht\Opdracht.UWP\Opdracht.UWP.csproj", "{B7CF0841-8319-4DA3-AD17-EEE8B11EEAD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht", "Opdracht\Opdracht\Opdracht.csproj", "{3C1202DE-84F8-4B27-BAD0-C9C94B51C55F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht", "Opdracht\Opdracht\Opdracht.csproj", "{3C1202DE-84F8-4B27-BAD0-C9C94B51C55F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

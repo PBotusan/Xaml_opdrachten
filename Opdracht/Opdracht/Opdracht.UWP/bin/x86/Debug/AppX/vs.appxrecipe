@@ -31,13 +31,13 @@
     <AppXManifest Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-14T11:45:37.799</Modified>
+      <Modified>2018-09-14T12:37:00.907</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Opdracht.UWP.exe">
       <PackagePath>entrypoint\Opdracht.UWP.exe</PackagePath>
-      <Modified>2018-09-14T11:45:36.052</Modified>
+      <Modified>2018-09-14T12:36:56.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Roy\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -695,6 +695,14 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2018-05-16T15:28:36.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Roy\.nuget\packages\sqlite.uwp.native\3.12.2\runtimes\win10-x86\native\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2016-05-26T14:15:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Roy\.nuget\packages\system.data.sqlite.core\1.0.109.1\runtimes\win-x86\lib\netstandard2.0\SQLite.Interop.dll">
+      <PackagePath>SQLite.Interop.dll</PackagePath>
+      <Modified>2018-08-12T19:29:42.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Roy\.nuget\packages\xam.plugins.forms.imagecircle\3.0.0.5\lib\uap10.0.16299\ImageCircle.Forms.Plugin.dll">
       <PackagePath>ImageCircle.Forms.Plugin.dll</PackagePath>
       <Modified>2018-05-15T23:40:50.000</Modified>
@@ -717,7 +725,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\netstandard2.0\Opdracht.dll">
       <PackagePath>Opdracht.dll</PackagePath>
-      <Modified>2018-09-14T11:45:30.276</Modified>
+      <Modified>2018-09-14T12:36:50.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -864,11 +872,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-09-14T11:45:35.851</Modified>
+      <Modified>2018-09-14T12:36:56.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-09-14T11:45:35.851</Modified>
+      <Modified>2018-09-14T12:36:56.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -925,11 +933,11 @@
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-12T13:17:06.227</Modified>
+      <Modified>2018-09-14T12:36:59.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.UWP\bin\x86\Debug\Core\Opdracht.UWP.exe">
       <PackagePath>Opdracht.UWP.exe</PackagePath>
-      <Modified>2018-09-14T11:45:37.195</Modified>
+      <Modified>2018-09-14T12:37:00.265</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

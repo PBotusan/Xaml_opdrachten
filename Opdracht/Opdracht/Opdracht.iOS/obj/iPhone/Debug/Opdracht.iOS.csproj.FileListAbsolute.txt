@@ -56,3 +56,11 @@ C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\XamlC.
 C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\Opdracht.iOS.csproj.CopyComplete
 C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\Opdracht.iOS.exe
 C:\Users\Roy\source\repos\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\Opdracht.iOS.pdb
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\optimized\
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\Opdracht.iOS.csprojAssemblyReference.cache
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht.iOS\obj\iPhone\Debug\Opdracht.iOS.csproj.CoreCompileInputs.cache
