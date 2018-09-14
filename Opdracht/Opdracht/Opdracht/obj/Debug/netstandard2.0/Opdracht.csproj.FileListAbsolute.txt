@@ -85,3 +85,4 @@ F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ContactBook\ContactDetailPage.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ContactBook\Contacts.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ContactBook\ContactsBookMainPage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\DataAcces\DataAccesMainPage.xaml.g.cs
