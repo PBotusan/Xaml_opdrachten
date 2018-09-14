@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Opdracht.ContactBook.Contacts">
+
+
+    <StackLayout Orientation="Horizontal" Padding="13, 0" >
+        <ListView x:Name="listView" ItemSelected="ListView_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ImageCell Text="{Binding FirstName}" Detail="{Binding LastName}" TextColor="Black" >
+                        <TextCell.ContextActions>
+                            <MenuItem Text="Delete" CommandParameter="{Binding .}" IsDestructive="True" Clicked="Delete_Clicked"/>
+                        </TextCell.ContextActions>
+                    </ImageCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

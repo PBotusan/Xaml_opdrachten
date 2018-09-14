@@ -81,3 +81,7 @@ F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\bin\Debug\
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\FormsPage.xaml.g.cs
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\XamlC.stamp
 F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\TableView.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\Extensions\DataCell.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ContactBook\ContactDetailPage.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ContactBook\Contacts.xaml.g.cs
+F:\Documenten\Paul Verslag\Xaml_opdrachten\Opdracht\Opdracht\Opdracht\obj\Debug\netstandard2.0\ContactBook\ContactsBookMainPage.xaml.g.cs

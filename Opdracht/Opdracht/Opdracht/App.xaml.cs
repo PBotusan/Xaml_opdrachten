@@ -1,4 +1,5 @@
-﻿using Opdracht.InstagramClone;
+﻿using Opdracht.ContactBook;
+using Opdracht.InstagramClone;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -12,7 +13,7 @@ namespace Opdracht
         {
             InitializeComponent();
 
-            MainPage = new TableView();
+            MainPage = new ContactsBookMainPage();
         }
 
         protected override void OnStart()

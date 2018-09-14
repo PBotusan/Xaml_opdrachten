@@ -12,9 +12,19 @@ namespace Opdracht.Extensions
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class DataCell : ViewCell
 	{
+        public static readonly BindableProperty LabelPropery = BindableProperty.Create("Label", typeof(string), typeof(DataCell));
+
+        public string Label
+        {
+            get { return (string)GetValue(LabelPropery); }
+            set { SetValue(LabelPropery, value);  }
+        }
+
 		public DataCell ()
 		{
 			InitializeComponent ();
+
+            BindingContext = this;
 		}
 	}
 }

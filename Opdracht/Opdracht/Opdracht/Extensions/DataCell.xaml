@@ -2,6 +2,10 @@
 <ViewCell xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Opdracht.Extensions.DataCell">
-  
+
+    <StackLayout Orientation="Horizontal" Padding="13, 0" >
+        <Label Text="{Binding Label}" VerticalOptions="Center"> </Label>
+        <DatePicker Date="1 Jan 2019" HorizontalOptions="Center" ></DatePicker>
+    </StackLayout>
     
 </ViewCell>
