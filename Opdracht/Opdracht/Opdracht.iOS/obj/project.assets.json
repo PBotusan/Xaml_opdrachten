@@ -2,6 +2,66 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
+      "SQLite/3.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libsqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/libsqlite3.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win7-x64/native/sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win7-x64"
+          },
+          "runtimes/win7-x86/native/sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win7-x86"
+          }
+        }
+      },
+      "System.Data.SQLite/1.0.109.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Data.SQLite.Core": "1.0.109.1"
+        }
+      },
+      "System.Data.SQLite.Core/1.0.109.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Data.SQLite.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Data.SQLite.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/lib/netstandard2.0/SQLite.Interop.dll": {
+            "assetType": "runtime",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/lib/netstandard2.0/SQLite.Interop.dll": {
+            "assetType": "runtime",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/lib/netstandard2.0/SQLite.Interop.dll": {
+            "assetType": "runtime",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/lib/netstandard2.0/SQLite.Interop.dll": {
+            "assetType": "runtime",
+            "rid": "win-x86"
+          }
+        }
+      },
       "Xam.Plugins.Forms.ImageCircle/3.0.0.5": {
         "type": "package",
         "dependencies": {
@@ -141,8 +201,10 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "System.Data.SQLite": "1.0.109.1",
           "Xam.Plugins.Forms.ImageCircle": "3.0.0.5",
-          "Xamarin.Forms": "3.1.0.697729"
+          "Xamarin.Forms": "3.1.0.697729",
+          "sqlite": "3.13.0"
         },
         "compile": {
           "bin/placeholder/Opdracht.dll": {}
@@ -153,6 +215,30 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
+      "SQLite/3.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "System.Data.SQLite/1.0.109.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Data.SQLite.Core": "1.0.109.1"
+        }
+      },
+      "System.Data.SQLite.Core/1.0.109.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Data.SQLite.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Data.SQLite.dll": {}
+        }
+      },
       "Xam.Plugins.Forms.ImageCircle/3.0.0.5": {
         "type": "package",
         "dependencies": {
@@ -292,8 +378,10 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "System.Data.SQLite": "1.0.109.1",
           "Xam.Plugins.Forms.ImageCircle": "3.0.0.5",
-          "Xamarin.Forms": "3.1.0.697729"
+          "Xamarin.Forms": "3.1.0.697729",
+          "sqlite": "3.13.0"
         },
         "compile": {
           "bin/placeholder/Opdracht.dll": {}
@@ -304,6 +392,30 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
+      "SQLite/3.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "System.Data.SQLite/1.0.109.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Data.SQLite.Core": "1.0.109.1"
+        }
+      },
+      "System.Data.SQLite.Core/1.0.109.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Data.SQLite.dll": {}
+        },
+        "runtime": {
+          "runtimes/win-x64/lib/netstandard2.0/SQLite.Interop.dll": {}
+        }
+      },
       "Xam.Plugins.Forms.ImageCircle/3.0.0.5": {
         "type": "package",
         "dependencies": {
@@ -443,8 +555,10 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "System.Data.SQLite": "1.0.109.1",
           "Xam.Plugins.Forms.ImageCircle": "3.0.0.5",
-          "Xamarin.Forms": "3.1.0.697729"
+          "Xamarin.Forms": "3.1.0.697729",
+          "sqlite": "3.13.0"
         },
         "compile": {
           "bin/placeholder/Opdracht.dll": {}
@@ -455,6 +569,30 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
+      "SQLite/3.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "System.Data.SQLite/1.0.109.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Data.SQLite.Core": "1.0.109.1"
+        }
+      },
+      "System.Data.SQLite.Core/1.0.109.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Data.SQLite.dll": {}
+        },
+        "runtime": {
+          "runtimes/win-x86/lib/netstandard2.0/SQLite.Interop.dll": {}
+        }
+      },
       "Xam.Plugins.Forms.ImageCircle/3.0.0.5": {
         "type": "package",
         "dependencies": {
@@ -594,8 +732,10 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "System.Data.SQLite": "1.0.109.1",
           "Xam.Plugins.Forms.ImageCircle": "3.0.0.5",
-          "Xamarin.Forms": "3.1.0.697729"
+          "Xamarin.Forms": "3.1.0.697729",
+          "sqlite": "3.13.0"
         },
         "compile": {
           "bin/placeholder/Opdracht.dll": {}
@@ -607,6 +747,82 @@
     }
   },
   "libraries": {
+    "SQLite/3.13.0": {
+      "sha512": "MJfRiz2p6aMVOxrxGMdVzhpzI0oxTgZSwC8eVuOpV8L7yYaFUu8q/OFYwv9P0/aZ/pdEu24O6gma6wZJMTun9A==",
+      "type": "package",
+      "path": "sqlite/3.13.0",
+      "files": [
+        "build/net45/SQLite.props",
+        "lib/netstandard1.0/_._",
+        "runtimes/linux-x64/native/libsqlite3.so",
+        "runtimes/osx-x64/native/libsqlite3.dylib",
+        "runtimes/win10-arm/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win10-x64/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win10-x86/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win7-x64/native/sqlite3.dll",
+        "runtimes/win7-x86/native/sqlite3.dll",
+        "sqlite-version.txt",
+        "sqlite.3.13.0.nupkg.sha512",
+        "sqlite.nuspec"
+      ]
+    },
+    "System.Data.SQLite/1.0.109.1": {
+      "sha512": "2TBrp5SwveUG09xchgUVEZdrCcE2C9vwZCCQpo+cEFJ54fv0MGXsRdKZlFomZaN5GqGddlNTLZcXdfr2TlwYnw==",
+      "type": "package",
+      "path": "system.data.sqlite/1.0.109.1",
+      "files": [
+        ".signature.p7s",
+        "system.data.sqlite.1.0.109.1.nupkg.sha512",
+        "system.data.sqlite.nuspec"
+      ]
+    },
+    "System.Data.SQLite.Core/1.0.109.1": {
+      "sha512": "0kNNR3qhA9W1h0XfrWUyyv8L3q1uYyc8BpPBOXd+BqrXX/5ZrJzpTiIX68tqCT6NQ+K7qWD5oAmlFZHcHpM/DA==",
+      "type": "package",
+      "path": "system.data.sqlite.core/1.0.109.1",
+      "files": [
+        ".signature.p7s",
+        "build/net20/System.Data.SQLite.Core.targets",
+        "build/net20/x64/SQLite.Interop.dll",
+        "build/net20/x86/SQLite.Interop.dll",
+        "build/net40/System.Data.SQLite.Core.targets",
+        "build/net40/x64/SQLite.Interop.dll",
+        "build/net40/x86/SQLite.Interop.dll",
+        "build/net45/System.Data.SQLite.Core.targets",
+        "build/net45/x64/SQLite.Interop.dll",
+        "build/net45/x86/SQLite.Interop.dll",
+        "build/net451/System.Data.SQLite.Core.targets",
+        "build/net451/x64/SQLite.Interop.dll",
+        "build/net451/x86/SQLite.Interop.dll",
+        "build/net46/System.Data.SQLite.Core.targets",
+        "build/net46/x64/SQLite.Interop.dll",
+        "build/net46/x86/SQLite.Interop.dll",
+        "lib/net20/System.Data.SQLite.dll",
+        "lib/net20/System.Data.SQLite.dll.config",
+        "lib/net20/System.Data.SQLite.xml",
+        "lib/net40/System.Data.SQLite.dll",
+        "lib/net40/System.Data.SQLite.dll.config",
+        "lib/net40/System.Data.SQLite.xml",
+        "lib/net45/System.Data.SQLite.dll",
+        "lib/net45/System.Data.SQLite.dll.config",
+        "lib/net45/System.Data.SQLite.xml",
+        "lib/net451/System.Data.SQLite.dll",
+        "lib/net451/System.Data.SQLite.dll.config",
+        "lib/net451/System.Data.SQLite.xml",
+        "lib/net46/System.Data.SQLite.dll",
+        "lib/net46/System.Data.SQLite.dll.config",
+        "lib/net46/System.Data.SQLite.xml",
+        "lib/netstandard2.0/System.Data.SQLite.dll",
+        "lib/netstandard2.0/System.Data.SQLite.dll.config",
+        "lib/netstandard2.0/System.Data.SQLite.xml",
+        "runtimes/linux-x64/lib/netstandard2.0/SQLite.Interop.dll",
+        "runtimes/osx-x64/lib/netstandard2.0/SQLite.Interop.dll",
+        "runtimes/win-x64/lib/netstandard2.0/SQLite.Interop.dll",
+        "runtimes/win-x86/lib/netstandard2.0/SQLite.Interop.dll",
+        "system.data.sqlite.core.1.0.109.1.nupkg.sha512",
+        "system.data.sqlite.core.nuspec"
+      ]
+    },
     "Xam.Plugins.Forms.ImageCircle/3.0.0.5": {
       "sha512": "59HyuAaUzuloQmu/PVCDCJQMRuuhqmIpCQ+d5hH5Qp8AZsa/vDi5ulrXDKRMZSZt/xbXsyZV+aZ/W/SZaYt2Mg==",
       "type": "package",
