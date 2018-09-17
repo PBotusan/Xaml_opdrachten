@@ -26,8 +26,8 @@ namespace Opdracht.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.ApplicationName = global::Opdracht.Droid.Resource.String.ApplicationName;
-			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.Hello = global::Opdracht.Droid.Resource.String.Hello;
+			global::PCLStorage.Resource.String.ApplicationName = global::Opdracht.Droid.Resource.String.ApplicationName;
+			global::PCLStorage.Resource.String.Hello = global::Opdracht.Droid.Resource.String.Hello;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Opdracht.Droid.Resource.Attribute.actionBarSize;
 		}
 		

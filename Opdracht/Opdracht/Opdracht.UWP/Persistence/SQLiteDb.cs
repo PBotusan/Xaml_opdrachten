@@ -1,14 +1,11 @@
-﻿using System;
-using System.IO;
-using System.Data.SQLite;
+﻿using System.IO;
 using Xamarin.Forms;
-using HelloWorld.Windows;
-using Opdracht;
+using Opdracht.Windows;
 using Windows.Storage;
 
 [assembly: Dependency(typeof(SQLiteDb))]
 
-namespace HelloWorld.Windows
+namespace Opdracht.Windows
 {
     public class SQLiteDb : ISQLiteDb
     {

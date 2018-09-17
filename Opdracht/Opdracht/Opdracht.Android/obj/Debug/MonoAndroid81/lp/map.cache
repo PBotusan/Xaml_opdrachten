@@ -43,3 +43,5 @@ SQLite.Net.Platform.XamarinAndroid
 SQLiteNetStandard
 PCLStorage.Abstractions
 PCLStorage
+System.Net.Http.Extensions
+System.Net.Http.Primitives
